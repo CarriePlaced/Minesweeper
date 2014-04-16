@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina4.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Minesweeper/View/HeaderView.cs">
+    <Files>
+      <File FileName="Minesweeper/AppDelegate.cs" Line="39" Column="1" />
+      <File FileName="Minesweeper/Main.cs" Line="7" Column="22" />
+      <File FileName="Minesweeper/Entitlements.plist" />
+      <File FileName="Minesweeper/Monkey.cs" Line="64" Column="2" />
+      <File FileName="Minesweeper/View/HeaderView.cs" Line="30" Column="1" />
+      <File FileName="Minesweeper/View/GameGridView.cs" Line="42" Column="4" />
+      <File FileName="Minesweeper/Info.plist" />
+      <File FileName="Minesweeper/OldFiles/Tile.cs" Line="5" Column="4" />
+      <File FileName="Minesweeper/OldFiles/TileGrid.cs" Line="1" Column="1" />
+      <File FileName="Minesweeper/OldFiles/GameViewModel.cs" Line="2" Column="14" />
+      <File FileName="Minesweeper/Tile.cs" Line="1" Column="1" />
+      <File FileName="Minesweeper/Old/Tile.cs" Line="66" Column="6" />
+      <File FileName="Minesweeper/Old/GameViewModel.cs" Line="98" Column="10" />
+      <File FileName="Minesweeper/TileGrid.cs" Line="95" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Minesweeper/TileGrid.cs" line="21" offsetX="455" offsetY="300" expression="Minesweeper.Tile" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
