@@ -102,7 +102,7 @@ namespace Minesweeper
 				alert.Show ();
 			}
 
-			if (_tileGrid.PlayerBlue == mineCount /2 && _tileGrid.PlayerRed == mineCount /2 ) 
+			if (_tileGrid.PlayerBlue == _tileGrid.PlayerRed && _tileGrid.PlayerRed + _tileGrid.PlayerBlue == mineCount ) 
 			{
 				alert.Title = "Tie!!!";
 				alert.Show ();
